@@ -1,4 +1,5 @@
 # Gale
+# TODO: transfer to Django-Based web application using Pandas & GEOPandas libraries.
 Excel workbook to show optimal bike touring routes with the wind at your back.
 
 This Excel workbook was created to help bicycle tourists experience the best kind of adventure, the kind with the wind at your back!
